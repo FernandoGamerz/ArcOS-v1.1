@@ -11,6 +11,10 @@ An operating system that reproduces your own cognitive structure and executes it
 ---
 
 ## 🧭 Overview (TL;DR)
+> This project is part of the **Natural Language OS** ecosystem.  
+> Master hub: https://github.com/Takeshi-Sakamoto5/Natural-Language-OS  
+> Category: **Engine Layer (Executable Natural Language OS)**
+
 
 ArcOS is a **Cognitive Clone OS** —  
 an operating system that executes your cognitive structure  
